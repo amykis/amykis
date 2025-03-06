@@ -1,5 +1,3 @@
-<img aling="right" src="img/photo.jpg" alt="photo" width="300"/>
-
 # Алексей Мякинин
 ## Python - разработчик
 
